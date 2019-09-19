@@ -173,13 +173,13 @@ h2{
     margin:-4% 3% 0 0;
 }
 .work_img_block{
-display: flex;
-flex-wrap: wrap;
-margin-bottom: 6%;
+   display: flex;
+   flex-wrap: wrap;
+   margin-bottom: 6%;
 }
 .work_img{
     margin:0.8% 0.8%;
-}
+} 
 #project{
     
     background-image: url(../mk/img/background2.jpg);
